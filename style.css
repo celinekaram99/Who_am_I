@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  /* 1 */
+  body {
+    margin: 0;
+    background: url(1.jpg) no-repeat;
+    background-size: 170%;
+  }
+  /* 2 */
+  .box {
+    width: 600px;
+    height: 140%;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: white;
+  
+    font-family: "Century Gothic", sans-serif;
+  }
+  /* 3 */
+  .box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  /* 4 */
+  .box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color: #e1c0cb;
+  }
+   /* 5 */
+  .box h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: #d87093;
+  }
+
+  /* 6 */
+  .li-btn {
+    margin-left:30%;
+  }
+
+  /* 7 */
+  .btn {
+    margin-right:100%;
+  }
